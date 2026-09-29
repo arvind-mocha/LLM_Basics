@@ -1,0 +1,221 @@
+{
+    "FORD001": {
+        "model": "Mustang",
+        "price": 52000,
+        "year": 2025,
+        "edition": "Normal",
+        "color": "Blue",
+        "country": "USA",
+        "available_city": "New York",
+        "quantity_available": 5
+    },
+
+    "FORD002": {
+        "model": "Mustang",
+        "price": 58000,
+        "year": 2025,
+        "edition": "Batman",
+        "color": "Black",
+        "country": "USA",
+        "available_city": "Los Angeles",
+        "quantity_available": 2
+    },
+
+    "FORD003": {
+        "model": "Mustang",
+        "price": 55000,
+        "year": 2025,
+        "edition": "Normal",
+        "color": "Red",
+        "country": "USA",
+        "available_city": "Chicago",
+        "quantity_available": 4
+    },
+
+    "FORD004": {
+        "model": "Mustang",
+        "price": 61000,
+        "year": 2024,
+        "edition": "Dark Knight",
+        "color": "Black",
+        "country": "Canada",
+        "available_city": "Toronto",
+        "quantity_available": 1
+    },
+
+    "FORD005": {
+        "model": "F-150",
+        "price": 48000,
+        "year": 2025,
+        "edition": "Normal",
+        "color": "White",
+        "country": "USA",
+        "available_city": "Houston",
+        "quantity_available": 8
+    },
+
+    "FORD006": {
+        "model": "F-150",
+        "price": 65000,
+        "year": 2025,
+        "edition": "Raptor",
+        "color": "Black",
+        "country": "USA",
+        "available_city": "Dallas",
+        "quantity_available": 3
+    },
+
+    "FORD007": {
+        "model": "F-150",
+        "price": 62000,
+        "year": 2024,
+        "edition": "Raptor",
+        "color": "Blue",
+        "country": "Canada",
+        "available_city": "Calgary",
+        "quantity_available": 2
+    },
+
+    "FORD008": {
+        "model": "Explorer",
+        "price": 45000,
+        "year": 2025,
+        "edition": "Normal",
+        "color": "Silver",
+        "country": "USA",
+        "available_city": "Miami",
+        "quantity_available": 6
+    },
+
+    "FORD009": {
+        "model": "Explorer",
+        "price": 51000,
+        "year": 2025,
+        "edition": "ST",
+        "color": "Red",
+        "country": "Canada",
+        "available_city": "Montreal",
+        "quantity_available": 3
+    },
+
+    "FORD010": {
+        "model": "Bronco",
+        "price": 47000,
+        "year": 2025,
+        "edition": "Normal",
+        "color": "Green",
+        "country": "USA",
+        "available_city": "Denver",
+        "quantity_available": 5
+    },
+
+    "FORD011": {
+        "model": "Bronco",
+        "price": 59000,
+        "year": 2025,
+        "edition": "Wildtrak",
+        "color": "Orange",
+        "country": "USA",
+        "available_city": "Phoenix",
+        "quantity_available": 2
+    },
+
+    "FORD012": {
+        "model": "Bronco",
+        "price": 57000,
+        "year": 2024,
+        "edition": "Wildtrak",
+        "color": "Black",
+        "country": "Canada",
+        "available_city": "Vancouver",
+        "quantity_available": 4
+    },
+
+    "FORD013": {
+        "model": "Escape",
+        "price": 33000,
+        "year": 2025,
+        "edition": "Normal",
+        "color": "White",
+        "country": "Canada",
+        "available_city": "Ottawa",
+        "quantity_available": 10
+    },
+
+    "FORD014": {
+        "model": "Escape",
+        "price": 38000,
+        "year": 2025,
+        "edition": "Sport",
+        "color": "Blue",
+        "country": "Canada",
+        "available_city": "Montreal",
+        "quantity_available": 5
+    },
+
+    "FORD015": {
+        "model": "Maverick",
+        "price": 31000,
+        "year": 2025,
+        "edition": "Normal",
+        "color": "Grey",
+        "country": "USA",
+        "available_city": "Seattle",
+        "quantity_available": 7
+    },
+
+    "FORD016": {
+        "model": "Maverick",
+        "price": 39000,
+        "year": 2025,
+        "edition": "Tremor",
+        "color": "Orange",
+        "country": "USA",
+        "available_city": "Austin",
+        "quantity_available": 3
+    },
+
+    "FORD017": {
+        "model": "Mustang Mach-E",
+        "price": 49000,
+        "year": 2025,
+        "edition": "Normal",
+        "color": "White",
+        "country": "Canada",
+        "available_city": "Toronto",
+        "quantity_available": 6
+    },
+
+    "FORD018": {
+        "model": "Mustang Mach-E",
+        "price": 59000,
+        "year": 2025,
+        "edition": "GT",
+        "color": "Blue",
+        "country": "Canada",
+        "available_city": "Montreal",
+        "quantity_available": 2
+    },
+
+    "FORD019": {
+        "model": "Mustang Mach-E",
+        "price": 59000,
+        "year": 2025,
+        "edition": "GT",
+        "color": "Red",
+        "country": "USA",
+        "available_city": "Boston",
+        "quantity_available": 4
+    },
+
+    "FORD020": {
+        "model": "Expedition",
+        "price": 68000,
+        "year": 2025,
+        "edition": "Normal",
+        "color": "Black",
+        "country": "USA",
+        "available_city": "Atlanta",
+        "quantity_available": 3
+    }
+}
